@@ -10,10 +10,8 @@ An E-commerce  Flutter project.
 ![proddet](https://user-images.githubusercontent.com/101344774/168388116-5f7b274e-3fef-49b6-9f4d-9ff7580db2ee.JPG)
 ![pay](https://user-images.githubusercontent.com/101344774/168388105-656a0790-9b26-4122-965f-9509acda56db.JPG)
 ![paypal](https://user-images.githubusercontent.com/101344774/168388111-b837ef2a-a59b-4d04-aec6-b107db0fd5ee.JPG)
-
-
-
-
+![search](https://user-images.githubusercontent.com/101344774/168463120-d8ae148c-1ca9-4658-9c40-99b400da2977.JPG)
+![cart](https://user-images.githubusercontent.com/101344774/168463116-9ffa25b1-0037-4937-87af-2f4de66bd1d7.JPG)
 
 
 
